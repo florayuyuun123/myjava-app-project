@@ -34,7 +34,7 @@
   <sonar.login>yuyuun</sonar.login>
   <sonar.password>flora123</sonar.password>
   <sonar.projectKey>squ_0bf13d5b9babdb51ed088274c30f67b9331a65a8</sonar.projectKey>
-  <sonar.projectName>jenkins-demo-cicd</sonar.projectName>
+  <sonar.projectName>jenkins-demo</sonar.projectName>
   
  </properties>
 
