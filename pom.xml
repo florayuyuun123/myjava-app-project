@@ -29,7 +29,13 @@
   <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   <sonar.projectKey>sonarqube-token</sonar.projectKey>
   <sonar.projectName>sonarqube-project-name</sonar.projectName>
-        
+  
+  <sonar.host.url>http://35.87.35.58:9000/admin/users</sonar.host.url>
+  <sonar.login>yuyuun</sonar.login>
+  <sonar.password>flora123</sonar.password>
+  <sonar.projectKey>squ_0bf13d5b9babdb51ed088274c30f67b9331a65a8</sonar.projectKey>
+  <sonar.projectName>jenkins-demo-cicd</sonar.projectName>
+  
  </properties>
 
 
