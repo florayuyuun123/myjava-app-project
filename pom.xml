@@ -7,13 +7,13 @@
  <packaging>war</packaging>
  <version>0.0.1-SNAPSHOT</version>
  
- <name>vin-solutions-app</name>
+ <name>allen-app</name>
 
  <description>CICD jenkins Java Project</description>
 
  <organization>
-  <name>Vin Technologies</name>
-  <url>http://vintech.com/</url>
+  <name>flo-tech</name>
+  <url>http://flotech.com/</url>
  </organization>
 
  <properties>
@@ -30,11 +30,11 @@
   <sonar.projectKey>sonarqube-token</sonar.projectKey>
   <sonar.projectName>sonarqube-project-name</sonar.projectName>
   
-  <sonar.host.url>http://35.87.35.58:9000</sonar.host.url>
-  <sonar.login>yuyuun</sonar.login>
-  <sonar.password>flora123</sonar.password>
-  <sonar.projectKey>squ_0bf13d5b9babdb51ed088274c30f67b9331a65a8</sonar.projectKey>
-  <sonar.projectName>jenkins-demo</sonar.projectName>
+  <sonar.host.url>http://18.246.243.255:9000</sonar.host.url>
+  <sonar.login>admin</sonar.login>
+  <sonar.password>admin123</sonar.password>
+  <sonar.projectKey>squ_b2e33d9575da8b074bedcdd434a14a2d835eaf3d</sonar.projectKey>
+  <sonar.projectName>allen-app</sonar.projectName>
   
  </properties>
 
@@ -119,7 +119,7 @@
  </distributionManagement>
  
  <build>
-  <finalName>dev-init-app-v1</finalName>
+  <finalName>allen-app-v1</finalName>
   
   <plugins>
    <plugin>
