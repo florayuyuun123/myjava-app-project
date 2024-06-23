@@ -105,15 +105,15 @@
  
  <distributionManagement>
      <repository>
-       <id>nexus</id>
-       <name>your-release-repo-name</name>
-       <url>nexus-release-url</url>
+       <id>allen-app-release</id>
+       <name>allen-app-release</name>
+       <url>http://54.85.177.236:8081</url>
      </repository>
      
      <snapshotRepository>
-       <id>nexus</id>
-       <name>your-snapshot-repo-name</name>
-       <url>nexus=snapshot-url</url>
+       <id>allen-app-snapshot</id>
+       <name>allen-app-snapshot</name>
+       <url>http://54.85.177.236:8081</url>
      </snapshotRepository>
      
  </distributionManagement>
