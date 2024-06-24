@@ -100,21 +100,21 @@
  
  <distributionManagement>
      <repository>
-       <id>allen-app-release</id>
-       <name>allen-app-release</name>
-       <url>http://54.85.177.236:8081</url>
+       <id>flo-app-release</id>
+       <name>flo-app-release</name>
+       <url>http://18.206.117.116:8081/repository/flo-app-release/</url>
      </repository>
      
      <snapshotRepository>
-       <id>allen-app-snapshot</id>
-       <name>allen-app-snapshot</name>
-       <url>http://54.85.177.236:8081</url>
+       <id>flo-app-snapshot</id>
+       <name>flo-app-snapshot</name>
+       <url>http://18.206.117.116:8081/repository/flo-app-snapshot/</url>
      </snapshotRepository>
      
  </distributionManagement>
  
  <build>
-  <finalName>allen-app-v1</finalName>
+  <finalName>flo-app-v1</finalName>
   
   <plugins>
    <plugin>
