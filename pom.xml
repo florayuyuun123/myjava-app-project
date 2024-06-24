@@ -7,7 +7,7 @@
  <packaging>war</packaging>
  <version>0.0.1-SNAPSHOT</version>
  
- <name>allen-app</name>
+ <name>flo-app</name>
 
  <description>CICD jenkins Java Project</description>
 
@@ -22,19 +22,14 @@
   <spring.version>5.1.2.RELEASE</spring.version>
   <junit.version>4.11</junit.version>
   <log4j.version>1.2.17</log4j.version>
-  <sonar.host.url>sonarqube-url</sonar.host.url>
-  <sonar.login>sonarqube-login</sonar.login>
-  <sonar.password>sonarqube-passwd</sonar.password>
+  <sonar.host.url>52.26.174.58:9000</sonar.host.url>
+  <sonar.login>admin</sonar.login>
+  <sonar.password>admin@123</sonar.password>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-  <sonar.projectKey>sonarqube-token</sonar.projectKey>
-  <sonar.projectName>sonarqube-project-name</sonar.projectName>
+  <sonar.projectKey>squ_6cd8bcb3eef87da2157721e6fd7d086c3405e803</sonar.projectKey>
+  <sonar.projectName>flo-app</sonar.projectName>
   
-  <sonar.host.url>http://18.246.210.9:9000</sonar.host.url>
-  <sonar.login>admin</sonar.login>
-  <sonar.password>admin123</sonar.password>
-  <sonar.projectKey>squ_b2e33d9575da8b074bedcdd434a14a2d835eaf3d</sonar.projectKey>
-  <sonar.projectName>allen-app</sonar.projectName>
   
  </properties>
 
