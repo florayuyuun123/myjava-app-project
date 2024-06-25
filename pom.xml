@@ -22,7 +22,7 @@
   <spring.version>5.1.2.RELEASE</spring.version>
   <junit.version>4.11</junit.version>
   <log4j.version>1.2.17</log4j.version>
-  <sonar.host.url>http://52.26.174.58:9000</sonar.host.url>
+  <sonar.host.url>http://18.237.81.222:9000</sonar.host.url>
   <sonar.login>admin</sonar.login>
   <sonar.password>admin@123</sonar.password>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -102,13 +102,13 @@
      <repository>
        <id>flo-app-release</id>
        <name>flo-app-release</name>
-       <url>http://18.206.117.116:8081/repository/flo-app-release/</url>
+       <url>http://54.236.102.227:8081/repository/flo-app-release/</url>
      </repository>
      
      <snapshotRepository>
        <id>flo-app-snapshot</id>
        <name>flo-app-snapshot</name>
-       <url>http://18.206.117.116:8081/repository/flo-app-snapshot/</url>
+       <url>http://54.236.102.227:8081/repository/flo-app-snapshot/</url>
      </snapshotRepository>
      
  </distributionManagement>
