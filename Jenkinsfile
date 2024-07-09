@@ -5,7 +5,7 @@ pipeline {
         GITHUB_REPO_URL = 'https://github.com/florayuyuun123/myjava-app-project.git'
         BRANCH_NAME = 'main'  // Replace with your branch name if it's not 'main'
         GITHUB_CREDENTIALS_ID = 'jenkins-token-credentials'  // Replace with your Jenkins GitHub credentials ID
-        DOCKERHUB_CREDENTIALS_ID = 'dockerhub-creds'  // Replace with your Jenkins Docker Hub credentials ID
+        DOCKERHUB_CREDENTIALS_ID = 'dockerhub-creds-cicd'  // Replace with your Jenkins Docker Hub credentials ID
         DOCKERHUB_REPO = 'yuyuun/java-project'  // Replace with your Docker Hub repository
     }
 
